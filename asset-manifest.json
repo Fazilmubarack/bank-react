@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bank-reacter/static/css/main.76a3c174.css",
+    "main.js": "/bank-reacter/static/js/main.96a5555e.js",
+    "static/js/373.054029f9.chunk.js": "/bank-reacter/static/js/373.054029f9.chunk.js",
+    "index.html": "/bank-reacter/index.html",
+    "main.76a3c174.css.map": "/bank-reacter/static/css/main.76a3c174.css.map",
+    "main.96a5555e.js.map": "/bank-reacter/static/js/main.96a5555e.js.map",
+    "373.054029f9.chunk.js.map": "/bank-reacter/static/js/373.054029f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76a3c174.css",
+    "static/js/main.96a5555e.js"
+  ]
+}
